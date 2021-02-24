@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_PASSWORD":"nodejs_user",
+        "JWT_TOKEN_KEY":"ASD21Q3EQW321ZXC21EQ56W4879ZXC13AD1ASD213E1QW2E",
+        "EXPIRE_TOKEN":"10h"
+    }
+}
