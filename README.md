@@ -44,6 +44,8 @@ Install Morgan
 
     npm install --save morgan
     
+    npm install mongoose@5.11.15 
+    
 Install *body-parser*  [for body posting json]
 
     npm install --save body-parser 
@@ -99,6 +101,8 @@ in (ec568zxcc654d) image code is different in your maching. now run it will run 
     
 if any problme to run your Nodejs api then i send a other document you can download and unzip and check it
 https://drive.google.com/file/d/1Vb_8l02wAdpcvaNH7lC5gRF4EbJpohB6/view?usp=sharing
+
+	if name problem then use name all small letter ->  NodeJS_API to nodejsapi
 
 #thank you 
 
